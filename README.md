@@ -1,2 +1,2 @@
 # Do_an_co_so_4
-Đồ án cơ sở 4
+Xây dựng hệ thống điểm danh sinh viên bằng thẻ từ RFID
