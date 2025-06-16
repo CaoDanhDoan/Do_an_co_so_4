@@ -37,12 +37,3 @@
 3. Nạp chương trình bằng **Arduino IDE** (nạp qua cổng USB).
 4. Kiểm tra kết quả bằng cách đưa thẻ lên đầu đọc.
 
-## 📌 Kết quả
-- Hệ thống hoạt động cơ bản, xác nhận và ghi nhận điểm danh thành công.
-- Có thể mở rộng và tích hợp với giao diện quản lý web trong tương lai.
-
-
-## 📝 Tài liệu tham khảo
-- [Datasheet RDM6300](https://www.sparkfun.com/datasheets/Sensors/ID-12-Datasheet.pdf)  
-- [ESP8266 Technical Reference](https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf)  
-- [ESP8266 WiFi Library](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
