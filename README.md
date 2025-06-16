@@ -31,9 +31,10 @@
 2. **Xử lý dữ liệu:** ESP8266 đọc thông tin và so sánh với cơ sở dữ liệu.
 3. **Điểm danh:** Nếu hợp lệ, hệ thống xác nhận điểm danh và có thể kích hoạt Buzzer hoặc LED làm tín hiệu phản hồi.
 
-## 🔧 Lắp ráp & nạp chương trình
-1. Kết nối chân TX/RX giữa RDM6300 và ESP8266.
-2. Kết nối Buzzer, LED với các chân GPIO.
-3. Nạp chương trình bằng **Arduino IDE** (nạp qua cổng USB).
-4. Kiểm tra kết quả bằng cách đưa thẻ lên đầu đọc.
+## 📷 Hình ảnh minh họa
+![Mô tả ảnh](demo.jpg)
+![Mô tả ảnh](demo1.jpg)
+![Mô tả ảnh](demo2.jpg)
+![Mô tả ảnh](demo3.jpg)
+
 
